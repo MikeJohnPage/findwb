@@ -17,8 +17,12 @@ The findwb package downloads and cleans data from the World Bank, and
 then exports it into a standard rectangular format for use in the dxgap
 package.
 
-The package exports four datasets: - `wb_gbp` - `wb_pop_density` -
-`wb_pop_total` - `wb_pop_urban`
+The package exports four datasets:
+
+- `wb_gbp`
+- `wb_pop_density`
+- `wb_pop_total`
+- `wb_pop_urban`
 
 ## Installation
 

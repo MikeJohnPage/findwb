@@ -14,7 +14,7 @@ A data frame with 2,128 rows and 4 columns:
 }
 }
 \source{
-\url{https://www.who.int/teams/global-tuberculosis-programme/data}
+\url{https://datatopics.worldbank.org/world-development-indicators/}
 }
 \usage{
 wb_pop_density

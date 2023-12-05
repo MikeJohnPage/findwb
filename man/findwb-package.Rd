@@ -8,6 +8,13 @@
 \description{
 To learn more about findwb, see the individual help files for each dataset.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://mikejohnpage.github.io/findwb/}
+}
+
+}
 \author{
 \strong{Maintainer}: Anna Mantsoki \email{anna.mantsoki@finddx.org}
 
